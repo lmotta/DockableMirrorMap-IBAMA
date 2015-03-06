@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/plugins/DockableMirrorMap">
+        <file>icons/dockablemirrormap.png</file>
+        <file>icons/about.png</file>
+        <file>icons/layers.png</file>
+        <file>icons/select.png</file>
+    </qresource>
+    <qresource prefix="/faunalia">
+        <file alias="logo">icons/faunalia_logo.png</file>
+    </qresource>
+</RCC>
